@@ -17,7 +17,7 @@
     <p><img src="https://komarev.com/ghpvc/?username=maciegg5&label=Profile%20views&color=0e75b6&style=flat" alt="maciegg5"></p>
     <h3>Connect with me:</h3>
     <p>
-        <a href="https://linkedin.com/in/maciej zabdyr" target="_blank">
+        <a href="https://www.linkedin.com/in/maciej-zabdyr-4a16b82ab/" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciej zabdyr" height="30" width="40">
         </a>
     </p>
